@@ -179,7 +179,7 @@ Use the button in the Quick Start section.
 
 ---
 
-*Among Us · Updated 2026-11-01 · Shared under the MIT License*
+*Among Us · Updated 2026-11-02 · Shared under the MIT License*
 
 
-*Last updated: 2026-11-01*
+*Last updated: 2026-11-02*
